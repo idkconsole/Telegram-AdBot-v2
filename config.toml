@@ -1,0 +1,21 @@
+[telegram]
+api_id = ""
+api_hash = ""
+phone_numbers = [""] 
+password = "" 
+
+[settings]
+joiner = true 
+forward_msg_url = "" 
+send_msg_url = "" 
+delay = 10 
+cycle_delay = 300 
+skip_msg = true
+
+[logging]
+discord_logging = false 
+webhook_url = ""
+
+[show_settings]
+print_settings = true 
+webhook_settings = false
